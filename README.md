@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Icewell2
 - 👀 I’m interested in FinTech industry
 - 🌱 I’m currently pursue my master degree, looking for May 2023 start Business/ Data analyst/ Consultant/ FinTech Analyst role
-- 💞️ I’m looking to collaborate on python/sql/c++/java basic coding
+- 💞️ I’m looking to collaborate on python/sql/c++/java coding
 - 📫 How to reach me: joeychen697@gmail.com
 
 <!---
